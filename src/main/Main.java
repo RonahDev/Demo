@@ -6,6 +6,10 @@ import view.CalculatorView;
 
 public class Main {
 
+    /*
+    Demo GitHub
+    */
+    
     public static void main(String[] args) {
         CalculatorModel model = new CalculatorModel();
         CalculatorView view = new CalculatorView();
